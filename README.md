@@ -55,7 +55,7 @@ TOKEN="Authorization: Basic Y...U="
 ./getConcept2Firmwares.sh -s beta -d /Volumes/MYCONCEPT2USB/Concept2/Firmware
 ```
 
-```shell
+```text
 all available pm5 firmware versions (public & beta)
 public	rower	2021-12-20	PM5v1 Version 32.000	pm5_eurochinesebin_pub_secure_R032B000.7z
 public	skierg	2021-12-20	PM5v1 Version 732.000	pm5ski_eurochinesebin_pub_secure_R732B000.7z
