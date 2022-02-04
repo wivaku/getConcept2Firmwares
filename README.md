@@ -1,9 +1,9 @@
 # download Concept2 monitor firmwares
 
-**Unofficial** shell script to list+download the Concept2 firmwares for [PM5 monitors](https://www.concept2.com/service/monitors/pm5/firmware) for rower/skierg/bike.  
+**Unofficial** shell script to list+download the [Concept2](https://www.concept2.com) firmwares for [PM5 monitors](https://www.concept2.com/service/monitors/pm5/firmware) for rower/skierg/bike.  
 Technically it can also be used to download firmware for PM3 and PM4, but only the PM5 supports saving the files to a USB stick.  
 
-The scripts functionality is similar to what the [Concept2 Utility](https://www.concept2.com/service/software/concept2-utility) does:
+The script's functionality is similar to what the [Concept2 Utility](https://www.concept2.com/service/software/concept2-utility) does:
 
 - retrieve list of firmware versions that are currently available (stable and beta)
 - delete the files that are currently in the destination folder
