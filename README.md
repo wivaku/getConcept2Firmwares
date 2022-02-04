@@ -29,8 +29,8 @@ For macOS:
 
 Parameters are available to specify the **destination** (e.g. directly to your USB stick) and what **status** the firmware versions should be (public or beta).
 
-| parameter | default value | example |  |  |
-|---|---|---|---|---|
+| parameter | default value | example |
+|---|---|---|
 | `-d <folder>` | `$HOME/Downloads/Concept2/Firmware` | `-d /Volumes/MYCONCEPT2USB/Concept2/Firmware` |
 | `-s [public \| beta]` | public | `-s beta` |
 | `-m [pm3 \| pm4 \| pm5]` | pm5 | `-m pm4` |
